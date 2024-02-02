@@ -1,0 +1,43 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 1em;
+}
+
+section {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    padding: 1em;
+    margin-bottom: 60px;
+}
+
+.producto {
+    background-color: #fff;
+    border: 1px solid #ddd;
+    padding: 1em;
+    margin: 1em;
+    width: 300px;
+    text-align: center;
+}
+
+.producto ul {
+    text-align: left;
+}
+
+footer {
+    position: fixed;
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    bottom: 0;
+    width: 100%;
+}

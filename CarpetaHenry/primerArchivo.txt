@@ -1,0 +1,23 @@
+git add .
+// Este comando te permitirá guardar tus cambios en Git.
+
+git commmit -m "tuMensaje"
+// Este comando te permitirá darle un título a tus cambios.
+
+git push
+// Este comando subirá tus cambios al repositorio de GitHub.
+
+comandos de bash
+ls: Lista los archivos y directorios en el directorio actual.
+cd: Cambia el directorio actual.
+pwd: Muestra la ruta del directorio actual.
+cp: Copia archivos o directorios.
+mv: Mueve o renombra archivos o directorios.
+rm: Elimina archivos o directorios.
+mkdir: Crea un nuevo directorio.
+touch: Crea un nuevo archivo vacío o actualiza la fecha de modificación de un archivo existente.
+grep: Busca patrones en archivos.
+man: Muestra el manual de un comando.
+chmod: Cambia los permisos de un archivo o directorio.
+ps: Muestra información sobre los procesos en ejecución.
+kill: Envía una señal a un proceso para que termine.
